@@ -1,0 +1,19 @@
+{
+  "name": "flow-rhel7-binary",
+  "version": "0.1.0",
+  "description": "Binary of flow server compiled on RHEL7",
+  "main": "flow",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinjmoses/flow-rhel7-binary.git"
+  },
+  "author": "justin j. moses",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinjmoses/flow-rhel7-binary/issues"
+  },
+  "homepage": "https://github.com/justinjmoses/flow-rhel7-binary#readme"
+}
